@@ -12,7 +12,7 @@ public class for11{
             x++;
         }
         while (x < myArr.length);
-        System.out.println(sum);
+        System.out.println( sum );
 
 
         while (x < myArr.length) {
